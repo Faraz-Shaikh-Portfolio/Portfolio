@@ -70,7 +70,7 @@ const App = () => {
         <div className="absolute inset-0 bg-black opacity-70"></div>
         <div className="relative text-center p-8 max-w-4xl mx-auto rounded-xl bg-gray-800 bg-opacity-70 shadow-2xl backdrop-blur-sm">
           <h1 className="text-5xl md:text-7xl font-extrabold text-white leading-tight mb-4 animate-fadeInUp">
-            Hi, I'm <span className="text-teal-400">Your Name</span>
+            Hi, I'm <span className="text-teal-400">Faraz Shaikh</span>
           </h1>
           <p className="text-2xl md:text-3xl text-gray-200 mb-8 animate-fadeInUp delay-100">
             A Full Stack Web Developer & Automation Expert
